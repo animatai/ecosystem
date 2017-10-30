@@ -1,6 +1,9 @@
 Animats
 =======
 
+***NOTE: This repo is not actively maintained. Check out the repo [animatai](https://github.com/animatai/animatai) which contains a refactored version of the framework***
+
+
 Reference code for:
 
 A General Model for Learning and Decision-Making in Artificial Animals by
